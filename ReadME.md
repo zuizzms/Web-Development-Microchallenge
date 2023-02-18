@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Spark Web Development Micro Challenge</title>
+
   </head>
   <body>
     <h1>Spark Web Development Micro Challenge</h1>
