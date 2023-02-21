@@ -15,10 +15,10 @@
 <p>Beginner</p>
 
 <h2>Time Necessary</h2>
-<p>30 minutes</p>
+<p>1-2 Hours</p>
 
 <h2>Objective</h2>
-<p>Create a personal portfolio website that showcases your skills, experiences, and projects. The website should have a professional design and be easy to navigate.</p>
+<p>Create a personal portfolio website that showcases your skills, experiences, and projects. The website should have a professional design and be easy to navigate. This project leaves room for creativity so feel free to add your own additions (color, design, layout, etc). </p>
 
 <h2>Requirements:</h2>
 <ul>
