@@ -23,7 +23,7 @@
 <h2>Requirements:</h2>
 <ul>
   <li>Use HTML5 and CSS to create your website</li>
-  <li>Include an "Home" section that has a picture yourself</li>
+  <li>Include a "Home" section that has a picture yourself</li>
   <li>Include a "About" section that introduces yourself and your background</li>
   <li>Include a "Contact" section with a form with your contact information</li>
 </ul>
