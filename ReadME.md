@@ -8,6 +8,9 @@
 
 <center><p>Created by Adi and Zuizz</p></center>
 
+<h2>What is a micro-challenge?</h2>
+<p>A micro-challenge is a task/challenge that is a small project of code that can be done in a certain amount of time. It can be any idea that comes to mind but has to specifically be innovative and promote learning in any way. It is important that the micro challenges have different difficulty levels because some people might be more experienced than others so there has to be variety in that way. Most challenges should be able to be completed within a couple of hours to 2 days.</p>
+
 <h2>Challenge</h2>
 <p>Create your own online portfolio website.</p>
 
@@ -17,7 +20,7 @@
 <h2>Time Necessary</h2>
 <p>1-2 Hours</p>
 
-<h2>Objective</h2>
+<h2>Objective and Instructions</h2>
 <p>Create a personal portfolio website that showcases your skills, experiences, and projects. The website should have a professional design and be easy to navigate. This project leaves room for creativity so feel free to add your own additions (color, design, layout, etc). </p>
 
 <h2>Requirements:</h2>
