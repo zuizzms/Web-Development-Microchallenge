@@ -46,6 +46,9 @@
   
 </ol>
 
+<h2>Need Help?</h2>
+<p>Beginner</p>
+
 <h2>Resources:</h2>
 <ul>
   <li><a href="https://www.w3schools.com/">W3Schools</a> - A comprehensive online learning platform that covers a wide range of web development technologies and programming languages.</li>
